@@ -18,7 +18,7 @@
 			)
 		)
 		(property "Value" "B82559B0153A016"
-			(at 6.985 -2.54 0)
+			(at 3.81 13.97 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -26,7 +26,7 @@
 			)
 		)
 		(property "Footprint" "IND_153A016_TDK"
-			(at 0.762 6.858 0)
+			(at 1.27 10.414 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36,7 +36,7 @@
 			)
 		)
 		(property "Datasheet" "B82559B0153A016"
-			(at 1.778 8.636 0)
+			(at 1.778 12.192 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -218,6 +218,38 @@
 					)
 				)
 				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(symbol "B82559B0153A016_1_1"
+			(polyline
+				(pts
+					(xy 2.54 0) (xy 2.54 -2.54)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(pin unspecified line
+				(at 0 -2.54 0)
+				(length 2.54)
+				(name "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
 					(effects
 						(font
 							(size 1.27 1.27)
